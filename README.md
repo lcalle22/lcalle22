@@ -5,9 +5,9 @@
 -->
 
 <div align="center">
-  <img src="Pensar_anime.jpg" alt="Anime Thinking" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/lcalle22.png" alt="Luis Calle Avatar" width="150" style="border-radius: 50%;" />
   
-  # 👋 Soy Luis Calle Blanco
+  # 👋 Soy Luis Calle
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=007EC6&center=true&vCenter=true&width=450&lines=Ingeniero+de+Sistemas;Especialista+en+Infraestructura;Auditor+en+Ciberseguridad)](https://git.io/typing-svg)
 </div>
