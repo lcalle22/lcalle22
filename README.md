@@ -1,7 +1,7 @@
 <div align="center">
   
 
-  # Luis Calle Blanco
+  # Ing. MSC. Luis T. Calle Blanco
   **Ingeniero de Sistemas | Especialista en Infraestructura TI & Auditoría de Seguridad**
   
   <sub>La Paz, Bolivia • [LinkedIn](https://linkedin.com/in/tu-perfil) • [luisltcb@gmail.com](mailto:luisltcb@gmail.com)</sub>
