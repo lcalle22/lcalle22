@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="Pensar_anime22.jpg" alt="Luis Calle" width="130" style="border-radius: 50%;" />
+  
 
-  # Luis Calle
+  # Luis Calle Blanco
   **Ingeniero de Sistemas | Especialista en Infraestructura TI & Auditoría de Seguridad**
   
   <sub>La Paz, Bolivia • [LinkedIn](https://linkedin.com/in/tu-perfil) • [luisltcb@gmail.com](mailto:luisltcb@gmail.com)</sub>
